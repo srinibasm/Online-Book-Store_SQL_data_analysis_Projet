@@ -2,6 +2,8 @@
   <img src="banner.png" alt="SQL Project Banner" width="100%">
 </p>
 # 📚 Online Book Store - SQL Data Analysis Project
+
+
 ## 📌 Project Overview
 This project is based on an Online Book Store database using SQL.  
 The project demonstrates database creation, table relationships, and data analysis using various SQL queries.
