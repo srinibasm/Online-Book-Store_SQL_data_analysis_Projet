@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="banner.png" alt="SQL Project Banner" width="100%">
+</p>
+
+# 📚 Online Book Store SQL Data Analysis Project
+
+
 # 📚 Online Book Store - SQL Data Analysis Project
 
 ## 📌 Project Overview
